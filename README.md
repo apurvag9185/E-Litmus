@@ -11,7 +11,9 @@ Proctoring for Safe Exam
 - [x] Users should not be able to close the tab by the normal close button [shortcut keys should not work too]. (User should only be able to close tab by clicking on
       “End Test” Button) 
 - [x] Should do requirement check initially when extension is activated:
-      a. Audio        
+ 
+      a. Audio  
+      
       b. Camera
       
       c. Internet Stability  

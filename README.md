@@ -6,6 +6,7 @@ Proctoring for Safe Exam
 So there’s some basic stuff which is required, it’s just like making a website, with a manifest!
 
 HTML: The building block of all websites, a standard markup language which along with CSS and JAVASCRIPT is used by web developers to create websites, mobile user interfaces, and applications.
+
 CSS: A style sheet language used to set the style for the HTML elements.
 JavaScript: Commonly used to create interactive effects within web browsers.
 JSON: JavaScript Object Notation, is an open standard format that uses human-readable text to transmit data objects consisting of attribute-value pairs. It is the primary data format used for asynchronous browser/server communication (AJAJ), largely replacing XML (used by AJAX).
@@ -18,6 +19,7 @@ The manifest tells Chrome about your app, what it is, how to launch it, and the 
 The background script is used to create the event page responsible for managing the app life cycle.
 All code must be included in the Chrome App package. This includes HTML, JS, CSS, and Native Client modules.
 All icons and other assets must be included in the package as well.
+
 Directory Structure:
 
 json
@@ -135,6 +137,6 @@ If the extension is valid, it’ll be loaded up and active right away!
       
       c. Internet Stability
 - [x] Capture the user related information in local storage.(e.g. IP, requirements check)      
-- [x] Can add any additional functionality which is present in the Safe exam browser. Also Any new functionality which is not yet present in the safe exam browser but         can help in preventing cheating in online exams.
+- [x] Can add any additional functionality which is present in the Safe exam browser. Also Any new functionality which is not yet present in the safe exam browser but       can help in preventing cheating in online exams.
       
 

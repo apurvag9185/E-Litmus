@@ -16,9 +16,8 @@ Proctoring for Safe Exam
       
       b. Camera
       
-      c. Internet Stability  
-      
+      c. Internet Stability
 - [x] Capture the user related information in local storage.(e.g. IP, requirements check)      
-      
+- [x] Can add any additional functionality which is present in the Safe exam browser. Also Any new functionality which is not yet present in the safe exam browser but         can help in preventing cheating in online exams.
       
 
